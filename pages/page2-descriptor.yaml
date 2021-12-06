@@ -1,0 +1,13 @@
+code: page2
+parentCode: homepage
+titles:
+  en: page2
+  it: page2
+pageModel: 1-column
+ownerGroup: administrators
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets: []

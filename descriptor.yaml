@@ -1,0 +1,8 @@
+code: depot6
+description: depot6 - page2 published with pending changes has bee
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  pages:
+    - pages/page1-descriptor.yaml
+    - pages/page2-descriptor.yaml
